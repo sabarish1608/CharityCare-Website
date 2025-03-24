@@ -1,13 +1,16 @@
 {
   "name": "charity-site",
   "private": true,
+  "homepage": "https://sabarish1608.github.io/CharityCare-Website/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "aos": "^2.3.4",
