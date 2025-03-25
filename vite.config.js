@@ -6,4 +6,3 @@ export default defineConfig({
   base: "/CharityCare-Website/",  // ✅ Add your repo name here
 });
 
-
