@@ -1,12 +1,27 @@
-# React + Vite
+<h2>🌍 CharityCare – Empowering Children Through Support & Donations ❤️</h2>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>🏆 About the Project</h2>
+CharityCare is a web platform dedicated to helping underprivileged children by enabling donations, adoptions, and volunteer opportunities. Built with ReactJS and Bootstrap, the platform ensures a smooth, user-friendly experience while maintaining a visually appealing and accessible design.
 
-Currently, two official plugins are available:
+<h2>🚀 Features</h2>
+<ul>
+  <li>✅ <strong>Donations</strong> – Donate money, food, clothes, and materials effortlessly.</li>
+  <li>✅ <strong>Adoption & Sponsorship</strong> – Connect with children in need and offer support.</li>
+  <li>✅ <strong>Volunteer Opportunities</strong> – Join hands to make a real impact.</li>
+  <li>✅ <strong>Responsive Design</strong> – Fully optimized for all devices.</li>
+  <li>✅ <strong>Smooth Animations</strong> – Enhancing user experience with AOS animations.</li>
+</ul>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>🛠️ Tech Stack</h2>
+<ul>
+  <li><strong>Frontend:</strong> ReactJS, Bootstrap, AOS Animations</li>
+  <li><strong>Deployment:</strong> GitHub Pages</li>
+</ul>
 
-## Expanding the ESLint configuration
+<h3>🚀 Future Enhancements</h3>
+<ul>
+  <li><strong>Incorporate Backend</strong> – Implement a robust backend for user authentication, donation tracking, and data management.</li>
+</ul>
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<h2>🎯 Live Demo</h2>
+🔗 <strong>Live Demo</strong> – <a href="https://sabarish1608.github.io/CharityCare-Website/" target="_blank">Check it out here!</a></li>
