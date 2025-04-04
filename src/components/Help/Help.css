@@ -18,7 +18,7 @@
     transform: translateX(-50%);
     width: 60px;
     height: 4px;
-    background-color: #8e44ad; /* violet-ish */
+    background-color: #8e44ad; 
     border-radius: 4px;
   }
   
@@ -64,7 +64,7 @@
     font-size: 1rem;
     font-weight: 500;
     color: #ffffff;
-    background: #c9a227; /* Gold tone */
+    background: #c9a227; 
     border: 1px solid rgba(201, 162, 39, 0.4);
     border-radius: 10px;
     backdrop-filter: blur(10px);
@@ -100,7 +100,7 @@
   }
   
   .help-btn:hover {
-    background: #a67c00; /* Slightly darker gold on hover */
+    background: #a67c00; 
     border-color: rgba(166, 124, 0, 0.6);
   }
   
